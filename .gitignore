@@ -1,0 +1,6 @@
+*
+
+!src/*
+!assets/*
+!CMakeLists.txt
+!README.md
