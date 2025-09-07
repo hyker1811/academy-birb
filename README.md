@@ -6,4 +6,4 @@ Requires QT5-core to be installed
 2. Navigate to root folder
 3. cmake .
 4. make
-5. Run the created academy_birb.exe
+5. Run the created academy_birb executable

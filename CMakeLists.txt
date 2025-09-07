@@ -12,4 +12,4 @@ add_executable(academy_birb.exe src/main.cpp src/Bird.cpp src/Bird.h src/Pipe.cp
 configure_file(assets/clouds.jpg clouds.jpg COPYONLY)
 configure_file(assets/sprite.png sprite.png COPYONLY)
 
-target_link_libraries(academy_birb.exe Qt5::Core Qt5::Widgets)
+target_link_libraries(academy_birb Qt5::Core Qt5::Widgets)
