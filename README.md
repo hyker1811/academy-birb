@@ -1,4 +1,4 @@
-A rudimentary flappy bird game made in QT. Works on linux only.
+A rudimentary flappy bird game made in QT. Works on linux only. Can be downloaded from https://hyker1811.itch.io/rudimentary-flappy-bird
 
 Requires QT5-core to be installed
 
