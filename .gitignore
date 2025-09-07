@@ -1,2 +1,6 @@
-CMakeFiles/
-CMakeCache.txt
+*
+
+!src/*
+!assets/*
+!CMakeLists.txt
+!README.md
